@@ -10,7 +10,7 @@
 
 > Shell
 
-- NOTE: These terms aren't **100% the same**, but because we're just getting started if you hear these words just know that they're referring to more or less the same thing.
+***NOTE:*** These terms aren't **100% the same**, but because we're just getting started if you hear these words just know that they're referring to more or less the same thing.
 
 Check here about ***[commands](Command-Line.md)***.
 
