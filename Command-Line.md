@@ -69,4 +69,4 @@
 * `tab` helps for *auto completion*.
 * `~` means you're in *root or home folder/directory*.
 * `$` sign denotes it's a *command* at any site you check.
-* `up and down` arrows help you to get the command history to use it again as a new command.
+* `up and down` arrows help you to get the *command history* to use it again as a new command.
