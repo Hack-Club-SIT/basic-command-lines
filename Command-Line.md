@@ -29,7 +29,7 @@
 
 * `cd`
     - stands for **C**hange **D**irectory.
-    - if you execute `cd` without specifying a directory, you can move to what is called a ***home directory***.
+    - if you execute `cd` without specifying a directory or `cd ~`, you can move to what is called a ***home directory***.
     
     i. `cd directory_name` command helps you to move to other specified directory.
 
