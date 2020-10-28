@@ -52,17 +52,14 @@
     - **-r** stands for recursive function.
     - ***important***: not applying `-r` will result to an error and the command will not be executed.
 
-* `cp file_to_rename new_file_name`
-    - used for renaming files.
-
 *  `rm filename.extension`
     - used for deleting files.
 
 *   `rm -r directory_name`
-    - used for deleting directory which is non-empty.
+    - used for deleting non-empty directory.
 
 *   `rmdir directory_name`
-    - used for deleting directory which is empty.
+    - used for deleting empty directory.
 
 ### ***Tips & Tricks:***
 * `ctrl + l` *clears* the terminal.
