@@ -1,4 +1,4 @@
-## ***<Basic Commands Lines for Beginners/>***
+## ***< Basic Commands Lines for Beginners />***
 
 ![image](https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif)
 
